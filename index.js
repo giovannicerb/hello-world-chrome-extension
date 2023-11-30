@@ -5,7 +5,7 @@ function getGreetingId() {
 }
 
 function getGreeting() {
-  return 'Hello, World!';
+  return 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGHHHHHHHH!';
 }
 
 function getGreetingElement() {
