@@ -1,3 +1,3 @@
 # Estensione di prova
 
-Esperimenti per una estensione con chrome, realizzata a partire da un progetto pre-esistente su GitHub
+Esperimenti per un'estensione su chrome, realizzata a partire da una repository pre-esistente su GitHub. 
