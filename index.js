@@ -5,7 +5,7 @@ function getGreetingId() {
 }
 
 function getGreeting() {
-  return 'Una semplice estensione di prova, realizzata senza il minimo problema e capendo tutto istantaneamente. Le mie skill sono innate ed illimitate';
+  return 'Una semplice estensione di prova, realizzata "senza il minimo problema" e "capendo tutto istantaneamente". Ho trovato la estensione originale su github, e la ho copiata tramite fork. Ho finalmente capito come funzioni manifest, e come si aggiungano estensioni a Chrome. Poco ma buono, direi            ';
 }
 
 function getGreetingElement() {
