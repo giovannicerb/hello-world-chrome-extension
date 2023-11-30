@@ -1,12 +1,12 @@
 body {
-  min-width: 800px;
-  min-height: 800px;
-  background-color: yellow;
+  min-width: 100px;
+  min-height: 100px;
+  background-color: #580000;
 }
 
 #greeting {
-  color: #ffa500;
-  background-color: #0000ff;
-  margin: 300px;
+  color: #ffffff;
+  background-color: #000000;
+  margin: 30px;
   padding: 70px;
 }
