@@ -15,9 +15,10 @@ function getGreetingElement() {
 function renderGreeting() {
   getGreetingElement().textContent = getGreeting();
 }
+//ma non è una ripetizione?
 
 function fireWhenDOMContentIsLoaded() {
   renderGreeting();
 }
-
+// anche questa; non basta dirlo all'inizio del documento?
 document.addEventListener(EVENT_DOM_CONTENT_LOADED, fireWhenDOMContentIsLoaded);
