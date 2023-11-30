@@ -1,3 +1,3 @@
-# hello-world-chrome-extension
+# Estensione di prova
 
-A simple hello-world extension implementation for Google Chrome browser.
+Esperimenti per una estensione con chrome, realizzata a partire da un progetto pre-esistente su GitHub
